@@ -1,6 +1,6 @@
 # Mountan Pier Core
 
-  chinese(https://github.com/mountain-pier/mountan-pier-core/blob/master/README.ch.md)
+  [chinese](https://github.com/mountain-pier/mountan-pier-core/blob/master/README.ch.md)
 
 ## core feature
 
