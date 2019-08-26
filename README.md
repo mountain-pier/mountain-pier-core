@@ -1,10 +1,11 @@
-# 山墩的核心
+# Mountan Pier Core
 
+  chinese[]
 
-## 核心特性
+## core feature
 
-1. 模型驱动
-2. 插件化
-2. 领域专用语言工作台
-3. 前后端一体化
-4. 集成和被集成
+1. Model-Driven 
+2. pluginable
+3. Domain Specific Languages
+4. Front-end and back-end integratio
+5. Integration and Integration
