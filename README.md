@@ -5,7 +5,7 @@
 ## core feature
 
 1. Model-Driven 
-2. pluginable
+2. Pluginable
 3. Domain Specific Languaes Workbenches
 4. Front-end and back-end integration
 5. Integration and Integration
