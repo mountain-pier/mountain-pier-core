@@ -6,6 +6,6 @@
 
 1. Model-Driven 
 2. pluginable
-3. Domain Specific Languaes
+3. Domain Specific Languaes Workbenches
 4. Front-end and back-end integratio
 5. Integration and Integration
